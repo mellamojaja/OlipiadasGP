@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27703.2042
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OlimpiadasGP.API", "OlimpiadasGP.API\OlimpiadasGP.API.csproj", "{CEB43EFA-92B4-4C32-9B37-944C9BBFAF04}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OlimpiadasGP.API", "OlimpiadasGP.API\OlimpiadasGP.API.csproj", "{CEB43EFA-92B4-4C32-9B37-944C9BBFAF04}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OlimpiadasGP.Services", "OlimpiadasGP.Services\OlimpiadasGP.Services.csproj", "{7D922622-D90F-4C48-B7F3-977B5040905C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{CEB43EFA-92B4-4C32-9B37-944C9BBFAF04}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CEB43EFA-92B4-4C32-9B37-944C9BBFAF04}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CEB43EFA-92B4-4C32-9B37-944C9BBFAF04}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7D922622-D90F-4C48-B7F3-977B5040905C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D922622-D90F-4C48-B7F3-977B5040905C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D922622-D90F-4C48-B7F3-977B5040905C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D922622-D90F-4C48-B7F3-977B5040905C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
