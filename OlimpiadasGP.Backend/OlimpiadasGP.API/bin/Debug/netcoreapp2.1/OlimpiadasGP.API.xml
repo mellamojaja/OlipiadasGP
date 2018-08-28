@@ -1,0 +1,124 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>OlimpiadasGP.API</name>
+    </assembly>
+    <members>
+        <member name="T:OlimpiadasGP.API.Controllers.TeamController">
+            <summary>
+            Values controller summary info
+            </summary>
+        </member>
+        <member name="M:OlimpiadasGP.API.Controllers.TeamController.#ctor(OlimpiadasGP.Services.Repositories.ITeamRepository)">
+            <summary>
+            
+            </summary>
+            <param name="teamRepository"></param>
+        </member>
+        <member name="M:OlimpiadasGP.API.Controllers.TeamController.Get">
+            <summary>
+             Get values summary info
+            </summary>
+        </member>
+        <member name="M:OlimpiadasGP.API.Controllers.TeamController.Get(System.Int32)">
+            <summary>
+             Get values summary info
+            </summary>
+        </member>
+        <member name="M:OlimpiadasGP.API.Controllers.TeamController.AddRandomTeams(System.Int32)">
+            <summary>
+             Add quantity random teams and resturn the elapsed time in milliseconds 
+            </summary>
+        </member>
+        <member name="M:OlimpiadasGP.API.Controllers.TeamController.Post(System.String)">
+            <summary>
+             Add value summary info
+            </summary>
+        </member>
+        <member name="M:OlimpiadasGP.API.Controllers.TeamController.Put(System.Int32,System.String)">
+            <summary>
+             Update value summary info
+            </summary>
+        </member>
+        <member name="M:OlimpiadasGP.API.Controllers.TeamController.Delete(System.Int32)">
+            <summary>
+             Delete value summary info
+            </summary>
+        </member>
+        <member name="T:OlimpiadasGP.API.Models.TeamDto">
+            <summary>
+            Return info for a Team
+            </summary>
+        </member>
+        <member name="F:OlimpiadasGP.API.Models.TeamDto.ElapsedTime">
+            <summary>
+            The elapsed time in milliseconds that takes to retrieve the <see cref="F:OlimpiadasGP.API.Models.TeamDto.Team"/>
+            </summary>
+        </member>
+        <member name="F:OlimpiadasGP.API.Models.TeamDto.Team">
+            <summary>
+            The teams
+            </summary>
+        </member>
+        <member name="T:OlimpiadasGP.API.Models.TeamListDto">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="F:OlimpiadasGP.API.Models.TeamListDto.ElapsedTime">
+            <summary>
+            The elapsed time in milliseconds that takes to retrieve <see cref="T:OlimpiadasGP.Services.Models.Team"/>
+            </summary>
+        </member>
+        <member name="F:OlimpiadasGP.API.Models.TeamListDto.Teams">
+            <summary>
+            The list of teams
+            </summary>
+        </member>
+        <member name="T:OlimpiadasGP.API.Program">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:OlimpiadasGP.API.Program.Main(System.String[])">
+            <summary>
+            
+            </summary>
+            <param name="args"></param>
+        </member>
+        <member name="M:OlimpiadasGP.API.Program.CreateWebHostBuilder(System.String[])">
+            <summary>
+            
+            </summary>
+            <param name="args"></param>
+            <returns></returns>
+        </member>
+        <member name="T:OlimpiadasGP.API.Startup">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:OlimpiadasGP.API.Startup.#ctor(Microsoft.Extensions.Configuration.IConfiguration)">
+            <summary>
+            
+            </summary>
+            <param name="configuration"></param>
+        </member>
+        <member name="P:OlimpiadasGP.API.Startup.Configuration">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:OlimpiadasGP.API.Startup.ConfigureServices(Microsoft.Extensions.DependencyInjection.IServiceCollection)">
+            <summary>
+            This method gets called by the runtime. Use this method to add services to the container.
+            </summary>
+            <param name="services"></param>
+        </member>
+        <member name="M:OlimpiadasGP.API.Startup.Configure(Microsoft.AspNetCore.Builder.IApplicationBuilder,Microsoft.AspNetCore.Hosting.IHostingEnvironment)">
+            <summary>
+            This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
+            </summary>
+        </member>
+    </members>
+</doc>

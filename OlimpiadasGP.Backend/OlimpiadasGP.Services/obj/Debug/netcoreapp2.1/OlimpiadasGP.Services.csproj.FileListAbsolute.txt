@@ -1,0 +1,8 @@
+C:\devbs\OlimpiadasGP\OlimpiadasGP.Backend\OlimpiadasGP.Services\bin\Debug\netcoreapp2.1\OlimpiadasGP.Services.deps.json
+C:\devbs\OlimpiadasGP\OlimpiadasGP.Backend\OlimpiadasGP.Services\bin\Debug\netcoreapp2.1\OlimpiadasGP.Services.dll
+C:\devbs\OlimpiadasGP\OlimpiadasGP.Backend\OlimpiadasGP.Services\obj\Debug\netcoreapp2.1\OlimpiadasGP.Services.csproj.CoreCompileInputs.cache
+C:\devbs\OlimpiadasGP\OlimpiadasGP.Backend\OlimpiadasGP.Services\obj\Debug\netcoreapp2.1\OlimpiadasGP.Services.AssemblyInfoInputs.cache
+C:\devbs\OlimpiadasGP\OlimpiadasGP.Backend\OlimpiadasGP.Services\obj\Debug\netcoreapp2.1\OlimpiadasGP.Services.AssemblyInfo.cs
+C:\devbs\OlimpiadasGP\OlimpiadasGP.Backend\OlimpiadasGP.Services\bin\Debug\netcoreapp2.1\OlimpiadasGP.Services.pdb
+C:\devbs\OlimpiadasGP\OlimpiadasGP.Backend\OlimpiadasGP.Services\obj\Debug\netcoreapp2.1\OlimpiadasGP.Services.dll
+C:\devbs\OlimpiadasGP\OlimpiadasGP.Backend\OlimpiadasGP.Services\obj\Debug\netcoreapp2.1\OlimpiadasGP.Services.pdb
